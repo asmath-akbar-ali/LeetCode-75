@@ -1,6 +1,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="300">
 
 # LeetCode 75 Challenge:-
+## Note: This Repository contains the solutions for the LeetCode 75 Programs.
 
 <h3> 1. Array / String (1-9) </h3> 
 <h3> 2. Two Pointers (10-13)  </h3>
