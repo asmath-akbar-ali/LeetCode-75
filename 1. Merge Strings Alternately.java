@@ -15,7 +15,7 @@ class Solution {
             if(i<word2.length()){
                 str+=word2.charAt(i);
             }
-        }
+        } 
         return str;
     }
 }
