@@ -1,8 +1,7 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="300">
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="300"> </p>
 
-# LeetCode 75 Challenge:-
-## Note: This Repository contains the solutions for the LeetCode 75 Programs.
-
+# <p align="center">  LeetCode 75 Challenge:- </p>
+ 
 <h3> 1. Array / String (1-9) </h3> 
 <h3> 2. Two Pointers (10-13)  </h3>
 <h3> 3. Sliding Window (14-17)  </h3>
