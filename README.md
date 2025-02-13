@@ -1,6 +1,7 @@
 <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="300"> </p>
 
 # <p align="center">  LeetCode 75 Challenge:- </p>
+## <p align="center"> www.leetcode.com/studyplan/leetcode-75/ </p>
  
 
 <h3> 1. Array / String (1-9) </h3> 
