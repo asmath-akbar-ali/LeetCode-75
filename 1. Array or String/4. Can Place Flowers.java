@@ -1,3 +1,12 @@
+// Example 1:
+
+// Input: flowerbed = [1,0,0,0,1], n = 1
+// Output: true
+// Example 2:
+
+// Input: flowerbed = [1,0,0,0,1], n = 2
+// Output: false
+
 import java.util.Arrays;
 class Solution {
     public boolean canPlaceFlowers(int[] arr, int n) {
